@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dde70119.css",
+    "main.js": "/static/js/main.80e61edb.js",
+    "static/js/787.eb7a10c9.chunk.js": "/static/js/787.eb7a10c9.chunk.js",
+    "static/media/dejavu-mono-latin-400-normal.woff": "/static/media/dejavu-mono-latin-400-normal.40491fc66f732c95d5f0.woff",
+    "static/media/dejavu-mono-latin-400-normal.woff2": "/static/media/dejavu-mono-latin-400-normal.a3694647484f8f2e2c52.woff2",
+    "index.html": "/index.html",
+    "main.dde70119.css.map": "/static/css/main.dde70119.css.map",
+    "main.80e61edb.js.map": "/static/js/main.80e61edb.js.map",
+    "787.eb7a10c9.chunk.js.map": "/static/js/787.eb7a10c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde70119.css",
+    "static/js/main.80e61edb.js"
+  ]
+}
