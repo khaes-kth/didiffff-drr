@@ -1,0 +1,38 @@
+patch1-Time-4-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch1-Time-7-Cardumen:
+no-diff: true, same-length: true, content-diff: false, length-diff: true
+patch1-Time-4-Elixir:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch1-Time-4-JGenProg2015-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch1-Time-4-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch2-Time-4-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch2-Time-4-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch2-Time-4-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch3-Time-4-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch3-Time-4-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch4-Time-4-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch4-Time-4-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch4-Time-4-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch5-Time-4-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch5-Time-4-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch5-Time-4-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch6-Time-4-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch7-Time-4-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch1-Time-7-SimFix:
+no-diff: true, same-length: true, content-diff: false, length-diff: true
