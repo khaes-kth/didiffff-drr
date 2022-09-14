@@ -1,4 +1,4 @@
-Patch,no-diff,same-length,content-diff,length-diff,cnt
+patch,no-diff,same-length,content-diff,length-diff,cnt
 patch1-Time-4-Cardumen,False,False,False,True,1
 patch1-Time-7-Cardumen,True,True,False,True,1
 patch1-Time-4-Elixir,False,False,False,True,1
@@ -51,6 +51,14 @@ patch4-Time-11-Arja-plausible,False,False,False,False,1
 patch4-Time-11-Cardumen,False,False,False,False,1
 patch4-Time-11-JGenProg2017,False,False,False,False,1
 patch4-Time-11-jKali,False,False,False,False,1
+patch4-Time-11-jMutRepair,False,False,False,False,1
+patch5-Time-11-Arja-plausible,False,False,False,False,1
+patch5-Time-11-Cardumen,False,False,False,False,1
+patch5-Time-11-JGenProg2017,False,False,False,False,1
+patch5-Time-11-jKali,False,False,False,False,1
+patch5-Time-11-jMutRepair,False,False,False,False,1
+patch6-Time-11-Arja-plausible,False,False,False,False,1
+patch7-Time-11-Arja-plausible,False,False,False,False,1
 Time-4,0,0,0,17,17
 Time-7,2,2,0,2,2
 Time-9,0,0,0,1,1
@@ -59,5 +67,5 @@ Time-14,1,1,0,0,1
 Time-15,0,0,0,3,3
 Time-17,0,0,0,5,5
 Time-18,0,0,0,1,1
-Time-11,0,0,0,0,21
-ALL,4,3,0,29,52
+Time-11,0,0,0,0,29
+ALL,4,3,0,29,60

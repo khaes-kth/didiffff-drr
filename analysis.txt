@@ -106,3 +106,15 @@ patch4-Time-11-jMutRepair:
 no-diff: false, same-length: false, content-diff: false, length-diff: false
 patch5-Time-11-Arja-plausible:
 no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch5-Time-11-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch5-Time-11-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch5-Time-11-jKali:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch5-Time-11-jMutRepair:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch6-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch7-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
