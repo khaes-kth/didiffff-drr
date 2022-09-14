@@ -60,3 +60,49 @@ patch5-Time-17-Cardumen:
 no-diff: false, same-length: false, content-diff: false, length-diff: true
 patch1-Time-18-Cardumen:
 no-diff: false, same-length: false, content-diff: false, length-diff: true
+patch1-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-Elixir-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-jKali:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-jMutRepair:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Time-11-Nopol2015-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch2-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch2-Time-11-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch2-Time-11-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch2-Time-11-jKali:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch2-Time-11-jMutRepair:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch3-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch3-Time-11-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch3-Time-11-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch3-Time-11-jKali:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch3-Time-11-jMutRepair:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch4-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch4-Time-11-Cardumen:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch4-Time-11-JGenProg2017:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch4-Time-11-jKali:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch4-Time-11-jMutRepair:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch5-Time-11-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
