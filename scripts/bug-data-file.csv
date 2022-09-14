@@ -1,0 +1,9 @@
+Time-4,Time-4/src/main/java/org/joda/time/field/ZeroIsMaxDateTimeField.java,177,179,org.joda.time.TestPartial_Basics,src/test/java/org/joda/time/TestPartial_Basics.java
+Time-7,Time-7/src/main/java/org/joda/time/format/DateTimeFormatter.java,700,728,org.joda.time.format.TestDateTimeFormatter,src/test/java/org/joda/time/format/TestDateTimeFormatter.java
+Time-9,Time-9/src/main/java/org/joda/time/DateTimeZone.java,281,284,org.joda.time.TestDateTimeZone,src/test/java/org/joda/time/TestDateTimeZone.java
+Time-11,Time-11/src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java,1387,1482,org.joda.time.tz.TestCompiler,src/test/java/org/joda/time/tz/TestCompiler.java
+Time-14,Time-14/src/main/java/org/joda/time/MonthDay.java,513,521,org.joda.time.TestMonthDay_Basics,src/test/java/org/joda/time/TestMonthDay_Basics.java
+Time-15,Time-15/src/main/java/org/joda/time/field/FieldUtils.java,135,152,org.joda.time.field.TestFieldUtils,src/test/java/org/joda/time/field/TestFieldUtils.java
+Time-17,Time-17/src/main/java/org/joda/time/DateTimeZone.java,1163,1180,org.joda.time.TestDateTimeZoneCutover,src/test/java/org/joda/time/TestDateTimeZoneCutover.java
+Time-18,Time-18/src/main/java/org/joda/time/chrono/BasicGJChronology.java,119,125,org.joda.time.chrono.TestGJChronology,src/test/java/org/joda/time/chrono/TestGJChronology.java
+Time-19,Time-19/src/main/java/org/joda/time/DateTimeZone.java,880,911,org.joda.time.TestDateTimeZoneCutover,src/test/java/org/joda/time/TestDateTimeZoneCutover.java
