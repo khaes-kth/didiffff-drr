@@ -118,3 +118,43 @@ patch1-Time-4-JGenProg2017:
 no-diff: false, same-length: false, content-diff: false, length-diff: false
 patch1-Time-4-Elixir:
 no-diff: true, same-length: true, content-diff: false, length-diff: true
+patch10-Math-20-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch10-Math-20-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch10-Math-28-Arja-plausible:
+no-diff: true, same-length: true, content-diff: true, length-diff: true
+patch10-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch10-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch11-Math-20-Arja-plausible:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch11-Math-28-Arja-plausible:
+no-diff: true, same-length: true, content-diff: true, length-diff: true
+patch11-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch11-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch12-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch12-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch13-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch13-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch14-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch14-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch15-Math-80-Arja-plausible:
+no-diff: true, same-length: false, content-diff: false, length-diff: true
+patch15-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch16-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch17-Math-85-SequenceR:
+no-diff: false, same-length: false, content-diff: false, length-diff: false
+patch1-Math-18-Cardumen:
+no-diff: true, same-length: true, content-diff: false, length-diff: true
