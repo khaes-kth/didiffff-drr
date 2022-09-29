@@ -102,6 +102,7 @@ public class ExtractDidiResultCommand implements Callable<Integer> {
             }
 
         } finally {
+            driver.quit();
         }
 
         System.out.println(String.format("no-diff: %s, same-length: %s, content-diff: %s, length-diff: %s", noDiff, sameLength,
