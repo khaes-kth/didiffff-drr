@@ -1,0 +1,17 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+java.lang.RuntimeException: More than 1 diffedTypeMember found
+	at se.kth.assertteam.didiffff.analyzer.cli.MatchedLineFinderCommand.findDiffedTypeMember(MatchedLineFinderCommand.java:218)
+	at se.kth.assertteam.didiffff.analyzer.cli.MatchedLineFinderCommand.findMethods(MatchedLineFinderCommand.java:166)
+	at se.kth.assertteam.didiffff.analyzer.cli.MatchedLineFinderCommand.invoke(MatchedLineFinderCommand.java:60)
+	at se.kth.assertteam.didiffff.analyzer.cli.ExtractDidiResultCommand.call(ExtractDidiResultCommand.java:37)
+	at se.kth.assertteam.didiffff.analyzer.cli.ExtractDidiResultCommand.call(ExtractDidiResultCommand.java:17)
+	at picocli.CommandLine.executeUserObject(CommandLine.java:1953)
+	at picocli.CommandLine.access$1300(CommandLine.java:145)
+	at picocli.CommandLine$RunLast.executeUserObjectOfLastSubcommandWithSameParent(CommandLine.java:2352)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2346)
+	at picocli.CommandLine$RunLast.handle(CommandLine.java:2311)
+	at picocli.CommandLine$AbstractParseResultHandler.execute(CommandLine.java:2179)
+	at picocli.CommandLine.execute(CommandLine.java:2078)
+	at se.kth.assertteam.didiffff.analyzer.Main.main(Main.java:8)

@@ -1,0 +1,10 @@
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.8.0:compile (default-compile) on project commons-math: Compilation failure
+[ERROR] /home/khesoem/exec-diff/didiffff/didiffff/sample/patch1-Math-84-Cardumen/src/main/java/org/apache/commons/math/optimization/direct/MultiDirectional.java:[90,86] ';' expected
+[ERROR] 
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
